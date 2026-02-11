@@ -1,0 +1,4 @@
+Student: Alice_Smith | Average: 84.33
+Student: John_Doe | Average: 80.00
+Student: Maria_Perez | Average: 97.67
+Student: Chris_Lee | Average: 88.00
